@@ -1,11 +1,11 @@
-# sales-prediction
+# Sales Prediction
 # Problem Description
 Note: All information found here is fictitious. The company is planning to renovate all of its stores and needs an estimate of each store's budget to make the best possible decisions in the renovation process. That's why we got the job done by the CFO to predict how much their stores will have sold by the end of the next six weeks. We received data on each of the 1,115 stores and their characteristics, along with the daily sales volume over a two-and-a-half year interval.
 
 # Business Problem Question
 How much will each store sell in the next six weeks?
 # Solution Planning
-Let's build a machine learning model that predicts the sales volume for each of the stores over a period of 6 weeks. The solution will be accessed remotely through the Telegram Messenger app, as soon as a message containing a valid store number is sent, a chatbot will respond with the corresponding forecast.
+Let's build a machine learning model that predicts the sales volume for each of the stores over a period of 6 weeks. The solution will be accessed remotely through the Telegram Messenger app, as soon as a message containing a valid store number is sent, a chatbot will respond with the corresponding forecast, and also analyze and validate some important bussiness hypothesis.
 
 # Project Walkthrough
 - Loading Data - all data is stored in csv files ( source of files: https://www.kaggle.com/c/rossmann-store-sales/data)
